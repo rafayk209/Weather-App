@@ -1,0 +1,29 @@
+.searchbtn{
+    width: 10%;
+    height: 56px;
+   margin-left: 2% !important; 
+   color: rgb(110, 109, 109) !important;
+}
+.searchbtn:hover{
+    color: rgb(0, 149, 207) !important;
+    background-color: white !important;
+    border: solid 2px rgb(0, 149, 207);
+}
+.formset{
+    margin: auto;
+    margin-top: 2%;
+}
+
+.search{
+    width: 50%;
+}
+.title{
+    background-color: rgb(53, 198, 255);
+    margin-top: 0 !important;
+    margin: auto;
+    border-bottom: solid 1px rgb(68, 68, 68);
+    padding: 20px;
+    color: rgb(61, 61, 61);
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
